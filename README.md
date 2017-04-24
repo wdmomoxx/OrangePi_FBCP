@@ -1,6 +1,6 @@
 # OrangePi_FBCP
 
-参考了rpi-fbcp,同样用于复制Framebuffer内容,只是没有用到底层的硬件加速,因此速度回变慢,但是增强了移植性
+参考了rpi-fbcp,同样用于复制Framebuffer内容,只是没有用到底层的硬件加速,因此速度会变慢,但是增强了移植性
 
 Develop By KameraSui ~
 2017
