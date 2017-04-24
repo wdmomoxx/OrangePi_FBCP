@@ -44,6 +44,12 @@ gcc -o  PiFBCP PiFBCP.c
 
 
 
+### Test/测试
+
+在OrangePi Lite上测试通过
+
+
+
 ------
 
 Inspired By
