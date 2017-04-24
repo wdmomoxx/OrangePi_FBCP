@@ -34,6 +34,8 @@ gcc -o  PiFBCP PiFBCP.c
 
 开启前后'top'对比
 
+@320x240x16bit
+
 ![top_comp](mdfiles/top_comp.png)
 
 
